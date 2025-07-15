@@ -1,0 +1,15 @@
+<img width="2818" height="854" alt="aboutme" src="https://github.com/user-attachments/assets/3f6431f4-a91f-4a0d-855f-684272331379" />
+<img width="20" height="8" alt="bullet" src="https://github.com/user-attachments/assets/c1d84397-77b7-4784-b4c1-0d0ff59d3a41" />
+<img width="2880" height="1920" alt="home-icon" src="https://github.com/user-attachments/assets/fa3ef7a0-dec9-4a49-b60a-85cdbf7e3dba" />
+<img width="1245" height="296" alt="nav_bar" src="https://github.com/user-attachments/assets/15c10b1e-ba86-49ad-9cc2-6bb171a68343" />
+<img width="1200" height="1200" alt="html5" src="https://github.com/user-attachments/assets/479e4bfd-1b7f-4b4e-b420-5f09340ce5a1" />
+<img width="1200" height="2195" alt="java" src="https://github.com/user-attachments/assets/3b7e5af4-6999-408f-bbb5-79230e8b1bb2" />
+<img width="1668" height="736" alt="new_recommendation_input" src="https://github.com/user-attachments/assets/ca7a836b-14fd-41da-9c2f-f0363edbc7b7" />
+<img width="2618" height="1074" alt="new_recommendation_output" src="https://github.com/user-attachments/assets/a1eb688e-2152-4155-8176-a443a9ddb5c4" />
+<img width="287" height="175" alt="node" src="https://github.com/user-attachments/assets/60d4e5e9-5eec-4124-a232-e7ca7562b9a3" />
+<img width="2692" height="1026" alt="popup" src="https://github.com/user-attachments/assets/4c5d422f-8b1a-4d5f-b7d3-403494bb34a2" />
+<img width="943" height="296" alt="prof_name" src="https://github.com/user-attachments/assets/81dcb9a3-7f25-465f-9ea7-f6360a39de5c" />
+<img width="1245" height="296" alt="profile_name" src="https://github.com/user-attachments/assets/670b0e4b-acc9-4ebf-a961-972f8d55d0b4" />
+<img width="2710" height="1112" alt="projects" src="https://github.com/user-attachments/assets/9eb83869-0ee0-456c-b3dd-4d1af3687bd0" />
+<img width="2708" height="762" alt="recommendations" src="https://github.com/user-attachments/assets/5e80e7e5-f9db-48c5-a6b0-7cdb262eb9fe" />
+<img width="2734" height="740" alt="skills" src="https://github.com/user-attachments/assets/3f10d828-4d12-427d-add0-ec56394c27cd" />
